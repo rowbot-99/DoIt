@@ -73,7 +73,7 @@ youtubelegacy:
 # 010: YouTube Custom
 youtubecustom:
   Weight: 10
-  Prefix: https://www.youtube.com/c/
+  Prefix: https://www.youtube.com/
   Title: YouTube
   Icon:
     Class: fab fa-youtube fa-fw
